@@ -1,4 +1,3 @@
 ## Codeforces
-### CF Handle --> mohin.rajshahi
-### Language --> CPP
-
+### CF Handle  mohin.rajshahi
+### Language  CPP
