@@ -1,7 +1,4 @@
 ## Codeforces
-### Handle mohin.rajshahi
-### C
-### C++
-### Java
-### Python
-### Node.js
+### CF Handle --> mohin.rajshahi
+### Language --> CPP
+
